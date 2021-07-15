@@ -18,7 +18,7 @@ Labelled Data Quantity:
 
 ![Alt text](https://media.discordapp.net/attachments/679083784842248195/865161192644018196/unknown.png)
 
-Models Accuracy Matrix:
+Models Confusion Matrix:
 
 ![Alt text](https://media.discordapp.net/attachments/679083784842248195/865162081371160586/unknown.png)
 
